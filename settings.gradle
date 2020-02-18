@@ -1,0 +1,2 @@
+include ':app'
+rootProject.name='and-nd-firebase-1.00-starting-point 4'
